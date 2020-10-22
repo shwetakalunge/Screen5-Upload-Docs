@@ -1,0 +1,45 @@
+
+/*SMALL PHONES TO SMALL TABLETS (IPAD-PHONES)-481 TO 767PX PIXELS*/
+@media only screen and (max-width:740px){
+.div_FirstDrop{padding:15px 5px 5px 50px; margin-right: 5px;}
+.div_DropFile{margin-left: 15px;display:inline-block; padding: 15px 50px}
+.div_SecondDrop{padding: 10px 25px 15px 10px ;}
+.btn-first{padding: 1px 14px;}
+.div_FirstDrop text{margin-left: 1px;}
+.div_SecondDrop{padding: 10px 10px ;height: 60px; margin-right: 10px;
+    margin-top: 20px;}    
+}
+
+/*SMALL PHONES TO SMALL TABLETS (IPAD-PHONES)-481 TO 767PX PIXELS*/
+@media only screen and (max-width:360px){
+.div_FirstDrop{padding:10px 35px 15px 30px; margin-right: 5px;}  
+.div_SecondDrop{padding: 15px 0px 15px 10px;height: 90px;margin-top: 20px;}
+    .btn-first{
+    margin-left: 0px;
+    }
+    .div_FirstDrop text{
+    padding: 10px;    
+    }
+    .div_SecondDrop p{
+       /*  padding: 0px 0px 0px 0px;*/
+        margin-top: 10px;
+        text-align: center;
+        
+    }
+    .drivin_license_Image,
+    .passport_Image,
+    .PR_id_Image,
+    .visa_Image{
+      padding: 20px 15px;
+        margin-left: 5px
+    }
+    .btn-last{
+       margin-right: 20px;
+        padding: 15px 22px 05px 15px;
+        margin-top: 20px
+    }
+    .div_SecondDrop text{   margin-left: 10px;line-height: 15px;padding: 0px;
+        text-align: center}
+}
+
+
